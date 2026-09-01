@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "ezsystems/ezpublish-legacy-installer": "*"
+        "se7enxweb/exponential-legacy-installer": "*"
     },
     "extra": {
         "ezpublish-legacy-extension-name": "ngclasslist"
